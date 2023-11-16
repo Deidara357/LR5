@@ -1,0 +1,15 @@
+.error {
+    background-color: #FFC0C0;
+}
+  
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    cursor: pointer;
+}
+  
+.selected {
+    background-color: yellow; /* Змініть на ваш вибраний колір */
+}
